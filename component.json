@@ -1,0 +1,19 @@
+{
+  "name": "chat-ui",
+  "repo": "JayceTDE/chat-ui",
+  "description": "Chat user interface",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "JayceTDE/chat-client": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "conversation-template.js"
+  ],
+  "styles": [
+    "chat-ui.css"
+  ]
+}
